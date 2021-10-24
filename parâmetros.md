@@ -1,6 +1,11 @@
 # Aula 2: Parâmetros
 
-Como manipular parâmetros de uma função, e técnicas para lidar com números indefinidos de parâmetros.
+Nessa aula foi ensinado como manipular parâmetros de uma função, e técnicas para lidar com números indefinidos de parâmetros.
+
+- [Valores padrão](#valores-padrão)
+- [Objeto "arguments"](#objeto-arguments)
+- [Arrays e objetos](#arrays-e-objetos)
+- [Objetos](#objetos)
 
 ## Valores padrão:
 
@@ -94,7 +99,7 @@ confereTamanho(3, 4, 5) // 3
 
 O que era um elemento independente se torna parte de um array.
 
-## Objetos ⬇
+## Objetos
 
 ### Object Destructuring:
 

@@ -1,8 +1,14 @@
 # Aula 3: Loops
 
-Como utilizar algumas das mais famosas declarações do Javascript
+Nessa aula foi ensinado como utilizar algumas das mais famosas declarações do Javascript.
 
-## If/Else
+- [If Else](#if-else)
+- [Switch](#switch)
+- [For](#for)
+- [While](#while)
+- [DoWhile](#dowhile)
+
+## If Else
 ```js
 function numeroPositivo(num) {
  let resultado;

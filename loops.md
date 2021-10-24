@@ -252,3 +252,7 @@ exemploDoWhile()
 ```
 
 Ele executa instruções até que a condição se torne falsa, porém a primeira execução sempre ocorre.
+
+<p align="center">
+  Readme by <a href="https://github.com/CarvalhoNathan"> Nathan Carvalho </a> <br>
+</p>

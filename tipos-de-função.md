@@ -82,3 +82,7 @@ console.log(resultSoma); // 3
 ```
 
 Utilizando callbacks, você tem maior controle da ordem de chamadas.
+
+<p align="center">
+  Readme by <a href="https://github.com/CarvalhoNathan"> Nathan Carvalho </a> <br>
+</p>

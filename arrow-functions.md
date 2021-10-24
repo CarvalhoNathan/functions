@@ -52,3 +52,8 @@ Arrow function **NÃO** faz hoisting!
 - ```this``` sempre será o objeto global. Métodos para modificar seu valor não irão funcionar (Como call, bind ou apply).
 - Não existe o objeto ```arguments```;
 - O construtur (Ex: ```new MeuObjeto()```) também não pode ser utilizado.
+
+<br>
+<p align="center">
+  Readme by <a href="https://github.com/CarvalhoNathan"> Nathan Carvalho </a> <br>
+</p>

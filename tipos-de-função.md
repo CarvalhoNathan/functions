@@ -1,8 +1,8 @@
-## Aula 1 - Tipos de função:
+# Aula 1 - Tipos de função:
 
 Apresentar a estrutura de uma função, e alguns outros tipos de funções e como são utilizadas.
 
-### Estrutura (Definição comum de uma função):
+## Estrutura (Definição comum de uma função):
 ```js
 function nome(parametros) {
  // instruções

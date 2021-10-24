@@ -144,3 +144,7 @@ nathan();
 
 // Nathan
 ```
+<br>
+<p align="center">
+  Readme by <a href="https://github.com/CarvalhoNathan"> Nathan Carvalho </a> <br>
+</p>

@@ -1,8 +1,14 @@
 # Aula 1 - Tipos de função:
 
-Apresentar a estrutura de uma função, e alguns outros tipos de funções e como são utilizadas.
+Nessa aula foi apresentado a estrutura de uma função, e alguns outros tipos de funções e como são utilizadas.
 
-## Estrutura (Definição comum de uma função):
+- [Estrutura](#estrutura)
+- [Função anônima](#função-anônima)
+- [Função autoinvocável](#função-autoinvocável)
+- [Callbacks](#callbacks)
+
+## Estrutura 
+**(Definição comum de uma função):**
 ```js
 function nome(parametros) {
  // instruções
@@ -17,7 +23,8 @@ function nome(parametros) {
 ```
 Quando invocamos o "return", a função para de ser executada.
 
-### Função anônima (Funções que representam expressões):
+### Função anônima 
+(Funções que representam expressões):
 ```js
 const soma = function (a, b) {
  return a + b;
@@ -28,7 +35,9 @@ soma(5, 4) // retorna 9
 ```
 Uma variável pode armazenar uma função.
 
-### Função autoinvocável (IIFE  - Immediately Invoked Function Expression):
+### Função autoinvocável
+**(IIFE  - Immediately Invoked Function Expression):**
+
 ```js
 (
  function() {
@@ -59,7 +68,8 @@ console.log(soma3) // 3
 ```
 Também pode ser utilizada com parâmetros ou armazenada em uma variável
 
-### Callbacks (Uma função passada como argumento para outro):
+### Callbacks 
+(Uma função passada como argumento para outro):
 
 ```js
 const calc = function(operacao, num1, num2){

@@ -133,4 +133,3 @@ Entre chaves {} podemos filtrar apenas os dados que nos interessam em um objeto.
 <p align="center">
   Readme by <a href="https://github.com/CarvalhoNathan"> Nathan Carvalho </a> <br>
 </p>
-
